@@ -5,7 +5,9 @@ function App() {
   
 
   return (
-    <>CRM</>
+    <div className='3xl font-extrabold'>
+      CRM
+    </div>
   )
 }
 
