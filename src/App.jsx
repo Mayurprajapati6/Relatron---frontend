@@ -1,14 +1,10 @@
-
-import './App.css'
+import MainRoutes from './routing/MainRoutes';
 
 function App() {
-  
 
   return (
-    <div className='3xl font-extrabold'>
-      CRM
-    </div>
-  )
+    <MainRoutes />
+  );
 }
 
-export default App
+export default App;
